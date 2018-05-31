@@ -1,0 +1,22 @@
+{
+  "name": "amazon-music",
+  "version": "0.1.0",
+  "description": "An amazon music desktop app for linux.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/asaladino/amazon-music",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Adam Saladino<adam@codingsimply.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
